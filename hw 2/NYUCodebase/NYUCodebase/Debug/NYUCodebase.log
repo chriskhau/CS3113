@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 2\nyucodebase\nyucodebase\main.cpp(132): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 2\nyucodebase\nyucodebase\main.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 2\nyucodebase\nyucodebase\main.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 2\nyucodebase\nyucodebase\main.cpp(191): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 2\nyucodebase\nyucodebase\main.cpp(192): warning C4305: '=': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\chris\Desktop\work\3_FALL 2017\CS3113\Khau-CS3113\hw 2\NYUCodebase\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\chris\Desktop\work\3_FALL 2017\CS3113\Khau-CS3113\hw 2\NYUCodebase\Debug\NYUCodebase.pdb (Partial PDB)

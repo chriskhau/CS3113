@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(33): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(34): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(54): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(55): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(77): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(319): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(402): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(406): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\chris\desktop\work\3_fall 2017\cs3113\khau-cs3113\hw 3\nyucodebase\main.cpp(103): warning C4715: 'Player::hitDetection': not all control paths return a value
+  NYUCodebase.vcxproj -> C:\Users\chris\Desktop\work\3_FALL 2017\CS3113\Khau-CS3113\hw 3\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\chris\Desktop\work\3_FALL 2017\CS3113\Khau-CS3113\hw 3\Debug\NYUCodebase.pdb (Partial PDB)
